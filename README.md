@@ -25,7 +25,7 @@ Download Termux from Google Play…
 
 (4) pkg install clang
 
-(5) git clone 
+(5) git clone https://github.com/ItsMeAbhishekRai/xerxes
 
 (6) cd Xerxes
 
